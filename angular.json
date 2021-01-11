@@ -130,5 +130,8 @@
       }
     }
   },
-  "defaultProject": "work-dep7"
+  "defaultProject": "work-dep7",
+  "cli": {
+    "analytics": "07bce15e-174a-4f33-851e-a506630c2275"
+  }
 }
